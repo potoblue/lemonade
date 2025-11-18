@@ -1,0 +1,2 @@
+def greetinf(name) : 
+    print(f"Hello, {name}!")
